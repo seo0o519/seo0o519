@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **seo0o519/seo0o519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=seo0o519&fontSize=80)
+
 
 <div align=center><h2>📚 STACKS 📚</h2></div>
 
